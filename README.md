@@ -1,2 +1,2 @@
 # ortex
-ortex_technical_test
+prueba tecnica para empresa de finanzas ortex
